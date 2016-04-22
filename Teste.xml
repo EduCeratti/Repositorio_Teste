@@ -1,4 +1,7 @@
 <Person>
 <name>Eduardo Ceratti</name>
 <age>XX</age>
+<preferences>
+  <movies></movies>
+</preferences>
 </Person>
